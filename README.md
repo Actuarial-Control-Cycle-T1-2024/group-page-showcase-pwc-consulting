@@ -31,15 +31,17 @@ policyholders through its intervention programs.
 
 The Fitbit smartwatches would incorporate three interventions:
 1) fitness tracking incentives
-2)  incentives for preventive
+2) incentives for preventive
 3) health screenings and smoking cessation programs
 
 ### Actuarial Analytics Conducted
 * Pricing and Costs
-* Sensitivty analysis on interest rates and mortality rates
+* Sensitivity analysis on interest rates and mortality rates
 * Risks and Risks Mitgation Strategies
 
 For a detailed understanding, please refer to our project report
+
+
 >Be creative! Feel free to link to embed your [data](2024-srcsc-superlife-inforce-dataset-part1.csv), [code](sample-data-clean.ipynb), [image](unsw.png) here
 
 More information on GitHub Pages can be found [here](https://pages.github.com/)
