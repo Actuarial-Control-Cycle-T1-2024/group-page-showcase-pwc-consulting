@@ -1,23 +1,55 @@
-# Actuarial Theory and Practice A @ UNSW
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/biNKOeX_)
+#  PwC Consulting
 
-_"Tell me and I forget. Teach me and I remember. Involve me and I learn" - Benjamin Franklin_
+![_1511791350_327_pwc-mobile](https://github.com/Actuarial-Control-Cycle-T1-2024/group-page-showcase-pwc-consulting/assets/164987978/5717dae4-377a-42f2-b6d9-7002ee02b71a)
+
+
+We find the pattern that matters. 
 
 ---
 
-### Congrats on completing the [2024 SOA Research Challenge](https://www.soa.org/research/opportunities/2024-student-research-case-study-challenge/)!
+### Give us your problem. We will find the solutions
 
->Now it's time to build your own website to showcase your work.  
->To create a website on GitHub Pages to showcase your work is very easy.
+Our team consists of qualified actuaries who find meaning in data, help clients find strategic values in projects and advance social outcomes for all. 
 
-This is written in markdown language. 
->
-* Click [link](https://classroom.github.com/a/biNKOeX_) to accept your group assignment.
 
-#### Follow the [guide doc](doc1.pdf) to submit your work. 
+### What we do
+* Advanced Analytics
+* Life and General Insurance
+* ESG & Climate & Sustainability
+* Workers' Compensation
+* Goverment
 
-When you finish the task, please paste your link to the Excel [sheet](https://unsw-my.sharepoint.com/:x:/g/personal/z5096423_ad_unsw_edu_au/ETIxmQ6pESRHoHPt-PUleR4BuN0_ghByf7TsfSfgDaBhVg?rtime=GAd2OFNM3Eg) for Peer Feedback
+
+
+Project Spotlight: SuperLife
 ---
->Be creative! Feel free to link to embed your [data](2024-srcsc-superlife-inforce-dataset-part1.csv), [code](sample-data-clean.ipynb), [image](unsw.png) here
 
-More information on GitHub Pages can be found [here](https://pages.github.com/)
-![](Actuarial.gif)
+![images](https://github.com/Actuarial-Control-Cycle-T1-2024/group-page-showcase-pwc-consulting/assets/164987978/a282584b-b0d6-4e3b-b52d-e963321562a1)
+
+
+
+PwC Consulting, in collaboration with SuperLife, has created a health incentive program to be incorporated into SuperLife’s longer-term life insurance offerings. Being one of major life insurance carriers in the country of Lumaria, the primary objectives of the proposed program will be to improve policyholders’ expected mortality, add economic value to SuperLife and as a result increase SuperLife’s insurance sales and market competitiveness.
+
+
+### Program Overview
+Leverage Fitbit smartwatches to create a Digital Wellness Ecosystem. Superlife would provide all its policyholders with these smartwatches that not only serve the purpose of tracking fitness activity and health monitoring, but double down as a medium for Superlife to effectively reach out to
+policyholders through its intervention programs. 
+
+The Fitbit smartwatches would incorporate three interventions:
+1) fitness tracking incentives
+2) incentives for preventive
+3) health screenings and smoking cessation programs
+
+
+### Why these interventions?
+The Log Rank Test highlighted that the mortality rate for policyholders who smoked was 23.17% compared to 2.84% for non smokers. Furthermore, the coefficient for Smoking Status for individuals was notable at 1.903 under the Cox Regression even at a significance level of 0.1%, emphasizing the need for targeted Smoking Cessation programs to decrease policyholder mortality. 
+
+### Actuarial Analytics Conducted
+* Pricing and Costs
+* Sensitivity analysis on interest rates and mortality rates
+* Risks and Risks Mitgation Strategies
+
+For a detailed understanding, please refer to our project report
+
+
