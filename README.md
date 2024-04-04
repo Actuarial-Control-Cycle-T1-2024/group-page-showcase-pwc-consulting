@@ -1,6 +1,7 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/biNKOeX_)
 #  PwC Consulting
 
+![_1511791350_327_pwc-mobile](https://github.com/Actuarial-Control-Cycle-T1-2024/group-page-showcase-pwc-consulting/assets/164987978/5717dae4-377a-42f2-b6d9-7002ee02b71a)
 
 
 We find the pattern that matters. 
@@ -23,7 +24,13 @@ Our team consists of qualified actuaries who find meaning in data, help clients 
 
 Project Spotlight: SuperLife
 ---
+
+![images](https://github.com/Actuarial-Control-Cycle-T1-2024/group-page-showcase-pwc-consulting/assets/164987978/a282584b-b0d6-4e3b-b52d-e963321562a1)
+
+
+
 PwC Consulting, in collaboration with SuperLife, has created a health incentive program to be incorporated into SuperLife’s longer-term life insurance offerings. Being one of major life insurance carriers in the country of Lumaria, the primary objectives of the proposed program will be to improve policyholders’ expected mortality, add economic value to SuperLife and as a result increase SuperLife’s insurance sales and market competitiveness.
+
 
 ### Program Overview
 Leverage Fitbit smartwatches to create a Digital Wellness Ecosystem. Superlife would provide all its policyholders with these smartwatches that not only serve the purpose of tracking fitness activity and health monitoring, but double down as a medium for Superlife to effectively reach out to
@@ -34,6 +41,10 @@ The Fitbit smartwatches would incorporate three interventions:
 2) incentives for preventive
 3) health screenings and smoking cessation programs
 
+
+### Why these interventions?
+The Log Rank Test highlighted that the mortality rate for policyholders who smoked was 23.17% compared to 2.84% for non smokers. Furthermore, the coefficient for Smoking Status for individuals was notable at 1.903 under the Cox Regression even at a significance level of 0.1%, emphasizing the need for targeted Smoking Cessation programs to decrease policyholder mortality. 
+
 ### Actuarial Analytics Conducted
 * Pricing and Costs
 * Sensitivity analysis on interest rates and mortality rates
@@ -42,7 +53,3 @@ The Fitbit smartwatches would incorporate three interventions:
 For a detailed understanding, please refer to our project report
 
 
->Be creative! Feel free to link to embed your [data](2024-srcsc-superlife-inforce-dataset-part1.csv), [code](sample-data-clean.ipynb), [image](unsw.png) here
-
-More information on GitHub Pages can be found [here](https://pages.github.com/)
-![](Actuarial.gif)
